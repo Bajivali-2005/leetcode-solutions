@@ -3,22 +3,32 @@ class Solution {
         int n = height.length;
         int water = 0;
 
-        int leftdp [] = new int[n];
-        int rightdp [] = new int[n];
+        int p1 = 0;
+        int p2 = n-1;
 
-        leftdp[0] = height[0];
-        rightdp[n-1] = height[n-1];
+        int leftmax = 0;
+        int rightmax = 0;
 
-        for(int i = 1; i<n; i++){
-            leftdp[i] = Math.max(leftdp[i-1],height[i]);
-        }
+        while(p1<=p2){
 
-        for(int i = n-2; i>=0; i--){
-            rightdp[i] = Math.max(rightdp[i+1],height[i]);
-        }
+            if(height[p1] <= height[p2]){
 
-        for(int i = 0; i<n; i++){
-            water += Math.min(leftdp[i],rightdp[i]) - height[i];
+                if(height[p1] > leftmax){
+                    leftmax = height[p1];
+                }else{
+                    water += leftmax - height[p1];
+                }
+
+                p1++;
+            }else{
+
+                if(height[p2] > rightmax ){
+                    rightmax = height[p2];
+                }else{
+                    water += rightmax - height[p2];
+                }
+                p2--;
+            }
         }
         return water;
     }
