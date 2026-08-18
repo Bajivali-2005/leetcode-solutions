@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
