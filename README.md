@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -104,4 +106,8 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
