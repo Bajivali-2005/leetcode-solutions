@@ -1,28 +1,46 @@
 class Solution {
-    public List<List<Integer>> threeSum(int[] arr) {
+    public List<List<Integer>> threeSum(int[] nums) {
+        Arrays.sort(nums);
 
-        Set<List<Integer>> list = new HashSet<>();
-        
-        int n = arr.length;
+        int n = nums.length;
 
-        for(int i = 0; i<n; i++){
-            HashSet<Integer> set = new HashSet<>();
-            for(int j = i+1; j<n;j++){
-                int third = -(arr[i]+arr[j]);
+        List<List<Integer>> list = new ArrayList<>();
 
-                if(set.contains(third)){
-                    List<Integer> temp = new ArrayList<>();
-                    temp.add(arr[i]);
-                    temp.add(arr[j]);
-                    temp.add(third);
-                    Collections.sort(temp);
-
-                    list.add(temp);
-
-                }
-                set.add(arr[j]);
+        for(int i =0; i<n-2; i++){
+            if(i>0 && nums[i] == nums[i-1]){
+                continue;
             }
+
+            int p1 = i+1;
+            int p2 = n-1;
+
+            while(p1<p2){
+                int sum = nums[p1] + nums[p2] + nums[i];
+
+                if(sum == 0){
+                    List<Integer> ans = new ArrayList<>();
+                    ans.add(nums[p1]);
+                    ans.add(nums[p2]);
+                    ans.add(nums[i]);
+                    list.add(ans);
+
+                    p1++;
+                    p2--;
+
+                    while(p1<p2 && nums[p1] == nums[p1-1]){
+                        p1++;
+                    }
+                    while(p1<p2 && nums[p2] == nums[p2+1]){
+                        p2--;
+                    }
+                }else if(sum<0){
+                    p1++;
+                }else{
+                    p2--;
+                } 
+            }
+
         }
-        return new ArrayList<>(list);
+        return list;
     }
 }
