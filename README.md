@@ -26,12 +26,14 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0015-3sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
