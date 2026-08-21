@@ -1,9 +1,16 @@
+/*can be solved using dp by taking 2 dp arrays of leftmax and rightmax 
+using the formula of Math.min(leftmax[i],rightmax[i]) - height[i];
+
+TC : O(n)
+SC : O(n)
+*/
+
 class Solution {
     public int trap(int[] height) {
         int n = height.length;
         int water = 0;
 
-        int p1 = 0;
+        int p1 = 0;           
         int p2 = n-1;
 
         int leftmax = 0;
