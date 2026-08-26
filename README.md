@@ -98,6 +98,7 @@
 | [0042-trapping-rain-water](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
@@ -126,4 +127,20 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0048-rotate-image) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
