@@ -47,6 +47,7 @@
 | [0018-4sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Bajivali-2005/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
